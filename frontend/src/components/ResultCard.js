@@ -1,4 +1,4 @@
-import { CheckCircle, AlertTriangle, Download, Share2 } from "lucide-react"
+import { CheckCircle, AlertTriangle } from "lucide-react"
 
 const ResultCard = ({ prediction, gradientColor }) => {
   const isNormal = prediction.toLowerCase().includes("normal")
