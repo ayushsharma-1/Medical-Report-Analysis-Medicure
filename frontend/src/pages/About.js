@@ -38,7 +38,7 @@ const About = () => {
     {
       name: "Divyansh Saxena",
       role: "ML Software Engineer",
-      image: "/saxena.jpg",
+      image: "/Saxena.jpg",
       description: "Expert in machine learning algorithms and medical image analysis.",
     },
     {
